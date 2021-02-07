@@ -1,4 +1,5 @@
-### Hi there 👋
+
+## Hello 👋 I'm Paulo Martins
 
 <!--
 **Paulo-Martin182/Paulo-Martin182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+>_ My name is Paulo Martins, I'm 19 years old and I'm a front-end developer
