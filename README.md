@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 >_ My name is Paulo Martins, I'm 19 years old and I'm a front-end developer
 
-- 🌱 I’m currently learning flutter and typescript
+- 🌱 I’m currently learning flutter 
 
 - 👯  ’I’m looking to collaborate on web projects using typescript and NextJs
 
