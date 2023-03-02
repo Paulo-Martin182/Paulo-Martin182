@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
->_ My name is Paulo Martins, I'm 19 years old and I'm a front-end developer
+>_ My name is Paulo Martins, I'm 21 years old and I'm a front-end developer
 
 - 🌱 I’m currently learning flutter 
 
